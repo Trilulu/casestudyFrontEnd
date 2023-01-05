@@ -122,7 +122,20 @@ background-color: aliceblue;
     border-width: 1px;
     border-radius: 50%;
     padding: 10px;
-    background-color: red;
-    
-    
+    background-color: red;     
+}
+
+.nav-link {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    background-color:white;
+    padding: 8px;
+    margin: 2px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    margin-left: auto;
 }
